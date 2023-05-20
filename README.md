@@ -1,6 +1,7 @@
 a student educated in Xi'an Jiaotong University.  
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=WangYbd02&show_icons=true)  
 ![](https://img.shields.io/badge/python-3.9-orange)
+![](https://img.shields.io/badge/cpp-17-red)
 <!--
 **WangYbd02/WangYbd02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

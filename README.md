@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=WangYbd02)
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=WangYbd02&show_icons=true)
 <!--
 **WangYbd02/WangYbd02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
